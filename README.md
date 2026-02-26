@@ -1,5 +1,8 @@
 🎮 Game Rental Database Model
 📌 Project Overview
+## ER Diagram
+
+![ER Diagram](er-diagram-game-rental.png)
 
 This project presents the logical data modeling (ERD) of a digital game rental system.
 
