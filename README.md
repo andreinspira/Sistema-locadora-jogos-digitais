@@ -2,7 +2,8 @@
 📌 Project Overview
 ## ER Diagram
 
-![ER Diagram](er-diagram-game-rental.png)
+![ER Diagram](<img width="1427" height="550" alt="erd-game-rental" src="https://github.com/user-attachments/assets/30f43252-a74a-477e-bfd0-602fcb2c7cd2" />
+)
 
 This project presents the logical data modeling (ERD) of a digital game rental system.
 
