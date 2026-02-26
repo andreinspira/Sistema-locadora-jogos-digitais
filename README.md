@@ -1,3 +1,6 @@
+
+
+<img width="1427" height="550" alt="erd-game-rental" src="https://github.com/user-attachments/assets/05da500a-fd81-49cd-b301-eb6ee372e75a" />
 🎮 Game Rental Database Model
 📌 Project Overview
 ## ER Diagram
